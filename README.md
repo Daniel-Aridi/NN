@@ -1,7 +1,6 @@
 # Neural-Network
 c# neural network
 
-( NOTE: CODE STILL NEED TO BE MODFIED TO MAKE IT EASEAR FOR USE, AS WELL ACCESS MODIFIERS TO BE CHANGED, THIS IS KIND OF A PROTOTYPE )
 
 
 Neural_Network network = new Neural_Network(28, 80, 80, 2, 0.3f); // initializing the network.
