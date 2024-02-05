@@ -1,3 +1,10 @@
+
+
+this is just a basic overview for a successful neural network computation from scratch to easly detect hand written numbers; low but sucffient amout of hidden layers allows for fast training and ifficient computation
+
+it is not fully organized by any means, just to prove a point.
+
+
 # Neural-Network
 c# neural network
 
